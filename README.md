@@ -1,2 +1,3 @@
 # Analysis  of a Phase 2 RCT
 
+This study evaluates the efficacy of a new antihypertensive drug (Trx) using data from a Phase II randomized controlled trial across three clinical sites. Despite "contamination" from protocol deviations at Site 3, a measurement device switch at Site 2, and differential dropout, linear regression analysis reveals a significant reduction in systolic blood pressure (p < 0.001). Inferential testing confirmed that measurement shifts and missingness—identified as Missing At Random (MAR)—did not invalidate the primary findings. Sensitivity analyses excluding Site 3 demonstrated stable treatment effects, confirming the drug’s robust clinical performance despite real-world data irregularities.
